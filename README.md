@@ -3,7 +3,7 @@
 
 I keep enterprise IT environments running, secure, and well-documented. Over 4+ years across healthcare, enterprise, government, and events/exhibition & construction sectors, I've supported and administered identity systems, Microsoft 365 environments, ERP platforms, and network/endpoint security for organizations with hundreds of end-users.
 
-I am not a software developer. My work is systems administration, infrastructure support, and IT operations — investigating root causes, implementing fixes, and documenting solutions so problems don't recur.
+My work is systems administration, infrastructure support, and IT operations — investigating root causes, implementing fixes, and documenting solutions so problems don't recur.
 
 ---
 
